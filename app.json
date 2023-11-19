@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eb96e427-d811-4013-88b5-3867cc74cb20"
+      }
+    },
+    "owner": "ozeasnobre"
   }
 }
